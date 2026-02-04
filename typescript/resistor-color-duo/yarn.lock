@@ -1467,9 +1467,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@exercism/typescript-resistor-color@workspace:.":
+"@exercism/typescript-resistor-color-duo@workspace:.":
   version: 0.0.0-use.local
-  resolution: "@exercism/typescript-resistor-color@workspace:."
+  resolution: "@exercism/typescript-resistor-color-duo@workspace:."
   dependencies:
     "@exercism/babel-preset-typescript": "npm:^0.6.0"
     "@exercism/eslint-config-typescript": "npm:^0.8.0"
